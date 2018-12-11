@@ -23,7 +23,8 @@
     },
     "content": {
       "default": "",
-      "type": "text"
+      "type": "text",
+      "required": true
     },
     "thumbnailUrl": {
       "model": "file",
