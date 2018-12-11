@@ -101,8 +101,8 @@ type Post {
   title: String!
   description: String
   content: String!
-  thumbnailUrl: UploadFile
-  imageUrl: UploadFile
+  thumbnail_url: UploadFile
+  image_url: UploadFile
   user: UsersPermissionsUser
 }
 
@@ -110,8 +110,8 @@ input PostInput {
   title: String!
   description: String
   content: String!
-  thumbnailUrl: ID
-  imageUrl: ID
+  thumbnail_url: ID
+  image_url: ID
   user: ID
 }
 

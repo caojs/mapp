@@ -26,13 +26,13 @@
       "type": "text",
       "required": true
     },
-    "thumbnailUrl": {
+    "thumbnail_url": {
       "model": "file",
       "via": "related",
       "plugin": "upload",
       "required": false
     },
-    "imageUrl": {
+    "image_url": {
       "model": "file",
       "via": "related",
       "plugin": "upload",
