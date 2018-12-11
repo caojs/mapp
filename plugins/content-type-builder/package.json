@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-content-type-builder/-/strapi-plugin-content-type-builder-3.0.0-alpha.16.tgz",
   "_shasum": "7b3f219fa8bfba600cebe03485b820a02232224d",
   "_spec": "strapi-plugin-content-type-builder@3.0.0-alpha.16",
-  "_where": "/Users/daicao/Projects/xquant/mapp",
+  "_where": "/Users/daicao/Projects/xquant/stable/mapp",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",

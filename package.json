@@ -19,12 +19,12 @@
     "eslint-plugin-react": "^7.7.0"
   },
   "dependencies": {
+    "knex": "latest",
     "lodash": "^4.17.5",
+    "mysql": "2.16.0",
     "strapi": "3.0.0-alpha.16",
     "strapi-hook-bookshelf": "3.0.0-alpha.16",
-    "strapi-hook-knex": "3.0.0-alpha.16",
-    "knex": "latest",
-    "mysql": "2.16.0"
+    "strapi-hook-knex": "3.0.0-alpha.16"
   },
   "author": {
     "name": "daicao",
@@ -38,13 +38,15 @@
       "url": ""
     }
   ],
-  "strapi": {
-    "packageManager": "npm",
-    "uuid": "105bca46-e068-462d-bd55-9cc1704f801d"
-  },
+  "strapi": "3.0.0-alpha.16",
   "engines": {
     "node": ">= 10.0.0",
     "npm": ">= 6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "customs": {
+    "packageManager": "npm",
+    "uuid": "78d0f14d-80f9-4ad9-9066-21ecca246f67"
+  },
+  "node": "10.14.1"
 }

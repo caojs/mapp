@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-users-permissions/-/strapi-plugin-users-permissions-3.0.0-alpha.16.tgz",
   "_shasum": "ace83f871f87feb942b4c8ea83f1a492d0c182b7",
   "_spec": "strapi-plugin-users-permissions@3.0.0-alpha.16",
-  "_where": "/Users/daicao/Projects/xquant/mapp",
+  "_where": "/Users/daicao/Projects/xquant/stable/mapp",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",

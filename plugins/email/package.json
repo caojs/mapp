@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-email/-/strapi-plugin-email-3.0.0-alpha.16.tgz",
   "_shasum": "07962c3166f35ab067afa5784023acbec9066110",
   "_spec": "strapi-plugin-email@3.0.0-alpha.16",
-  "_where": "/Users/daicao/Projects/xquant/mapp",
+  "_where": "/Users/daicao/Projects/xquant/stable/mapp",
   "author": {
     "name": "Strapi team",
     "email": "hi@strapi.io",

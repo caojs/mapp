@@ -21,7 +21,7 @@
   "_resolved": "https://registry.npmjs.org/strapi-plugin-upload/-/strapi-plugin-upload-3.0.0-alpha.16.tgz",
   "_shasum": "5807081030db22b05e352b47721ba46e4b405de1",
   "_spec": "strapi-plugin-upload@3.0.0-alpha.16",
-  "_where": "/Users/daicao/Projects/xquant/mapp",
+  "_where": "/Users/daicao/Projects/xquant/stable/mapp",
   "author": {
     "name": "A Strapi developer"
   },

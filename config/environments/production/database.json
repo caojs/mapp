@@ -8,7 +8,7 @@
         "uri": "",
         "host": "127.0.0.1",
         "port": 3306,
-        "database": "mapp",
+        "database": "mapp-production",
         "username": "root",
         "password": "root"
       },
